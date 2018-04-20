@@ -1,0 +1,14 @@
+* Book suggestions
+[2018-04-19 Thu 22:31]
+
+The book suggest the following other books:
+
+- Data Science from Scratch by Joel Grus
+- Machine Learning: An algorithmic Perspective Stephen Marsland
+- Python Machine Learning, Sebastian Raschka
+- Learning from data, AML
+- Artifical intelligence: A modern approach
+  
+
+* Chapter 1. The Machine Larning Landscape
+[2018-04-19 Thu 22:33]
